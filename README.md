@@ -9,4 +9,19 @@ so it is crucial that the news is classified to allow users to access the inform
 3.Politics
 4.Sports 
 5.Tech
-#### Dataset taken from kaggle its a tableau dashboard used for analysis on the news that is delivered to the users  
+#### Dataset taken from kaggle its a tableau dashboard used for analysis on the news that is delivered to the users 
+This tableau vizz contain 2 dashboards 
+### Dashboard 1
+1. Count of title as per category 
+##### GRAPH: 
+2. Count of file name as per category 
+##### GRAPH:
+3. Count of text as per category 
+##### GRAPH:
+4. count of content as per category 
+##### GRAPH:
+### Dashboard 2 
+1. max and min content as per category
+##### GRAPH: 
+3. Count of Article id as per category
+##### GRAPH: 
